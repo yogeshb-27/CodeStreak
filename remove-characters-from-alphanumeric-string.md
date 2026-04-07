@@ -1,8 +1,7 @@
 # 🔢 Remove Characters from Alphanumeric String
 
 ## 🔗 Problem Link
-https://www.geeksforgeeks.org/problems/remove-characters-from-alphanumeric-string
-
+https://www.geeksforgeeks.org/problems/remove-characters-from-alphanumeric-string0648/1
 ## 📝 Problem Description
 Given a string `s`, remove all non-numeric characters and return a string containing only digits while preserving their original order.
 
